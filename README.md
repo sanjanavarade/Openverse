@@ -20,18 +20,22 @@
 ## 🖼️ Screenshots
 
 ### 🔹 Dashboard Page
-![Landing Page](<img width="954" height="437" alt="Screenshot 2026-01-06 153943" src="https://github.com/user-attachments/assets/6772e35f-2edb-4af1-b1b2-a1a1c0165473" />
+![Landing Page](<img width="952" height="437" alt="Screenshot 2026-01-07 111926" src="https://github.com/user-attachments/assets/f3a81756-4ec3-48d2-8a6a-ca7f60f42418" />
+
 )
 
 ### 🔹 Authentication
-![Authentication](<img width="361" height="432" alt="Screenshot 2026-01-07 112204" src="https://github.com/user-attachments/assets/9b2117ec-c394-4da0-ab50-2de2caebf6ea" />
+![Authentication](<img width="361" height="432" alt="Screenshot 2026-01-07 112204" src="https://github.com/user-attachments/assets/791717ac-b7fd-46a0-bb46-0db722d9ecfd" />
+
 )
 
 ### 🔹 Readme Generator
-![Readme generator Ai](<img width="943" height="435" alt="Screenshot 2026-01-07 112020" src="https://github.com/user-attachments/assets/49f6a885-a877-43da-861c-c1227dd24a3f" />
+![Readme generator Ai](<img width="943" height="435" alt="Screenshot 2026-01-07 112020" src="https://github.com/user-attachments/assets/fd2cd7d5-28fe-46a6-81d1-aaf0f31207b0" />
+
 )
 ### 🔹 Repository Analyzer
-![Repository Analyzer](<img width="957" height="427" alt="Screenshot 2026-01-07 112004" src="https://github.com/user-attachments/assets/e4d65ffe-8227-4f3b-8ea8-70f3583f7183" />
+![Repository Analyzer](<img width="957" height="427" alt="Screenshot 2026-01-07 112004" src="https://github.com/user-attachments/assets/4d5eab46-7494-4580-86d1-71fa8a843f54" />
+
 )
 ---
 
