@@ -32,7 +32,6 @@
 )
 ### 🔹 Repository Analyzer
 ![Repository Analyzer](<img width="957" height="427" alt="Screenshot 2026-01-07 112004" src="https://github.com/user-attachments/assets/e4d65ffe-8227-4f3b-8ea8-70f3583f7183" />
-
 )
 ---
 
@@ -53,28 +52,6 @@
 - JWT Authentication
 - Password Hashing
 - Custom Error Middleware
-
----
-
-## 📁 Project Structure
-
-openverse/
-│
-├── src/
-│ ├── controllers/
-│ ├── services/
-│ ├── routes/
-│ ├── middleware/
-│ ├── utils/
-│ ├── types/
-│ └── models/
-│
-├── screenshots/
-├── .env.example
-├── package.json
-├── tsconfig.json
-└── README.md
-
 
 ---
 
